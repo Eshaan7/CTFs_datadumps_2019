@@ -1,10 +1,12 @@
 
-On analyzing traffic.pcap with wireshark, we can easily get the answer to the first few questions(see wireshar_ss.png),
-after that
+On analyzing traffic.pcap with wireshark, we can easily get the answer to the first few questions(see wireshar_ss.png).
+
+After that,
 wireshark -> File -> Export Objects -> as HTTP -> export actiV.bin
 drop the file on this link: https://emn178.github.io/online-tools/sha256_checksum.html
 and get the sha256.
-we can see the 'type of infection' from the given 'alerts.txt' file.
+
+We can see the 'type of infection' from the given 'alerts.txt' file.
 
 ```
 
