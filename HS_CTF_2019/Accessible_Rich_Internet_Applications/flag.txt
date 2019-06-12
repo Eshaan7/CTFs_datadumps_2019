@@ -1,0 +1,1 @@
+flag{accessibility_is_crucial}

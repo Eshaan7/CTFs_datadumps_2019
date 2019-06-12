@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Jun  8 14:57:07 2019
+Invocation: foremost cool.png 
+Output directory: /home/eshaan/Desktop/CTFs/hsCTF_2019/cool_image_2_100/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: cool.png
+Start: Sat Jun  8 14:57:07 2019
+Length: 52 KB (53786 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      52 KB 	         41 	  (1206 x 89)
+Finish: Sat Jun  8 14:57:07 2019
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Jun  8 14:57:07 2019
